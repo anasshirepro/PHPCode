@@ -78,7 +78,12 @@ echo $x > $y ? "$x is greater $y" : "$x is less than $y";
 
 echo "<br>";
 echo "The result is ", 1 + 5 * 3 - (6/2) > 10 && 5 < 3 || !(6 < 8);
-
+echo "<br>";
+print_r (5+54);
+echo "<br>";
+echo (5+55);
+print_r ("The result is ", 1 + 5 * 3 - (6/2) > 10 && 5 < 3 || !(6 < 8));
+echo "<br>";
 
 
 
